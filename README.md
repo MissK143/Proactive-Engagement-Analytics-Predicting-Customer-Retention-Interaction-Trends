@@ -28,9 +28,9 @@ We used a dataset of 520,000 observations spanning 12 months, with the following
 The ARIMA model provided accurate forecasts, with low MAE and RMSE values, indicating the model captured engagement trends effectively. This provides actionable insights for the customer success team.
 
 ## Files:
-- `data/`: Contains raw and cleaned datasets.
+- `plots/`: Contains data visualisations, Forecasted results.
 - `scripts/`: Includes all R scripts for data preparation, modeling, and evaluation.
-- `results/`: Forecasted results and plots.
+
 
 ## Conclusion:
 This project demonstrates my ability to work with time series data, build predictive models, and generate actionable insights to improve customer retention in a SaaS business.
